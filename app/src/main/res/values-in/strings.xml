@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="textView">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="daftar">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galleri</string>
+    <string name="upload">Unggah</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="upload_description">Deskripsi</string>
+    <string name="languagessettings">pengaturanBahasa</string>
+</resources>

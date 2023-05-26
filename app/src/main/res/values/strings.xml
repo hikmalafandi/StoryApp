@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="textView">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Login</string>
+    <string name="name">Name</string>
+    <string name="daftar">Register</string>
+    <string name="logout">logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="add_story">add story</string>
+    <string name="upload_description">Description</string>
+    <string name="languagessettings">languagesSettings</string>
+</resources>
